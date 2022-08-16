@@ -40,15 +40,15 @@ I've got a bad feeling about this
 
 [Elon Musk][1]<br>
 <kbd>
-<img src="">
+<img src="https://github.com/cbatts1228/AboutMe/blob/main/AboutMeImages/Musk.PNG">
   </kbd><br>
 [Bill Gates][2]<br>
 <kbd>
-<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Gates.jpg">
+<img src="https://github.com/cbatts1228/AboutMe/blob/main/AboutMeImages/Gates.jpg">
   </kbd><br>
 [Jeff Bezos][3]<br>
 <kbd>
-<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Bezzos.jpg">
+<img src="https://github.com/cbatts1228/AboutMe/blob/main/AboutMeImages/Bezzos.jpg">
   </kbd>
   
  ## Favorite Terms
