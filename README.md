@@ -26,7 +26,7 @@ My Nighttime Routine Includes
 
 ## My Philosophy
 
-**
+*It's not about intelliegence, it's about persistence*
 
 ## Favorite Quotes
 
