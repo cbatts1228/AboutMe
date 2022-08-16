@@ -39,7 +39,15 @@ Concentrate on what **you** think matters
 ## Persons of Interest
 
 [Elon Musk][1]<br>
-<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Musk.jpg"><br>
+<kbd>
+<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Musk.PNG">
+  </kbd><br>
 [Bill Gates][2]<br>
+<kbd>
+<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Gates.jpg">
+  </kbd><br>
 [Jeff Bezos][3]<br>
+<kbd>
+<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Bezzos.jpg">
+  </kbd>
 
