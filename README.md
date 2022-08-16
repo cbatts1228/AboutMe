@@ -39,6 +39,7 @@ Concentrate on what **you** think matters
 ## Persons of Interest
 
 [Elon Musk][1]<br>
+![Musk]("
 [Bill Gates][2]<br>
 [Jeff Bezos][3]<br>
-<img src="OneDrive/Documents/Caden/ComputerScience2/Portfolio/ElonMusk.jpg">
+
