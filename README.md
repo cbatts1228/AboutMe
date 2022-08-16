@@ -26,11 +26,11 @@ My Nighttime Routine Includes
 
 ## My Philosophy
 
-*It's not about intelligence, it's about persistence*
+**
 
 ## Favorite Quotes
 
-Concentrate on what **you** think matters
+I've got a bad feeling about this
 
 ## My Favorite Websites
 
@@ -40,7 +40,7 @@ Concentrate on what **you** think matters
 
 [Elon Musk][1]<br>
 <kbd>
-<img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Musk.PNG">
+<img src="">
   </kbd><br>
 [Bill Gates][2]<br>
 <kbd>
