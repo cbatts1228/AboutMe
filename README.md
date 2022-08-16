@@ -50,4 +50,12 @@ Concentrate on what **you** think matters
 <kbd>
 <img src="https://github.com/cbatts1228/AboutMe/blob/master/AboutMeImages/Bezzos.jpg">
   </kbd>
+  
+ ## Favorite Terms
 
+| Terms | Definitions | My Meaning |
+| :- | :----: | ---: |
+| Depression | a state of general unhappiness or despondency | What occurs 90% of the time I'm working on CS assignments |
+| Googling | search for information about (someone or something) on the internet using the search engine Google | The most useful tool for a coder |
+| Sus | a major chord where certain notes are left out and replaced with others | The funny Among Us word that means suspicious |
+| Moist | slightly wet; damp or humid | Wet or damp |
