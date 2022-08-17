@@ -23,6 +23,7 @@ My Nighttime Routine Includes
 1. Taking medicine
 2. Brushing my teeth
 3. Putting in my retainer
+4. Scrolling through tik tok
 
 ## My Philosophy
 
@@ -30,7 +31,8 @@ My Nighttime Routine Includes
 
 ## Favorite Quotes
 
-I've got a bad feeling about this
+I've got a bad feeling about this<br>
+Do as I say not as I do
 
 ## My Favorite Websites
 
